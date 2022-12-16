@@ -101,17 +101,20 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h1 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit-brand h2 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-cost h3 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     margin-bottom: 10px;
     text-align: center;
 }
@@ -173,17 +176,20 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.search-engine-optimization h1 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .online-reputation-management h2 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.social-media-marketing h3 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -195,6 +201,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h1 {
+    /*fixed header number to yo match index file to +get the right styling for web page*/
     font-size: 20px;
 }
