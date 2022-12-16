@@ -2,25 +2,15 @@
 
 ## Description 
 
-First I started off fixing the non-semantic elements changing them to be semantic elements. I was able to see all the "div"(<div>) elements were non semantic so I would view "w3 schools" for the html semantic elements and change the "div" elements. When changing the "div" elements i used first the "header"(<header class=>) semantic element, then the "section"(<section><section class=>) semantic element, and lastly the "footer"(<footer>) semantic element.
+First I started off fixing the non-semantic elements changing them to be semantic elements. I was able to see all the "div" elements were non semantic so I would view "w3 schools" for the html semantic elements and change the "div" elements. When changing the "div" elements i used first the "header" semantic element, then the "section" semantic element, and lastly the "footer" semantic element.
 
 Once I completed the semantic elements I then went to all 5 images and added the accessibility attributes. I was also able to find the accessibility attributes on "w3 schools" which is the (alt=text). This allowed me to give those in need to understand the image being displayed on the screen with or without the image actually being there and being replaced with a placeholder.
 
 As soon as I finished the accessebility attributes, I was able to fix the head attributes(h1,h2,h3,ect...) which didn't fall in to sequential order. After searching through "w3 schools" I figured out that theheading attributes were listed wrong on both the style.css and index.html. I fixed it by using h1, h2, and h3 due to how the header attributes were not complying with style.css, but it does work now especially with the style sheet so it doesn't alter the webpage.
 
-Then I continued on from head attributes and started on the HTML elements and makign them follow the logical structure. This was done by me adding space(pressing the enter button or return for mac users) between elements, once done it allowed the person reading the code to visualize the written code better. Other HTML element I fixed was the paragraph element(<p>) which was indented to much on all paragraphs so I took the indent away. Last HTML element i fixed was the list closing elements(</li>) there were two list closing elements in both the first and second list, so I deleted one on each list.
+Then I continued on from head attributes and started on the HTML elements and makign them follow the logical structure. This was done by me adding space(pressing the enter button or return for mac users) between elements, once done it allowed the person reading the code to visualize the written code better. Other HTML element I fixed was the paragraph element which was indented to much on all paragraphs so I took the indent away. Last HTML element i fixed was the list closing elements there were two list closing elements in both the first and second list, so I deleted one on each list.
 
-Lastly after I fixed the HTML elements I then change the text inside the title element(<title>). Before the title text had no context to what the file is, so I made sure the title was short concise and descriptive.
-
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+Lastly after I fixed the HTML elements I then change the text inside the title element. Before the title text had no context to what the file is, so I made sure the title was short concise and descriptive.
 
 
 ## Installation
